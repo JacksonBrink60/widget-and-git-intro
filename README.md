@@ -37,5 +37,8 @@
 12. `get merge`
     Merges changes from one branch to another
 
-13. `git clone <repo>`
+13. `git fetch`
+    Downloads changes from the remte but doesn't merge them automatically.
+
+14. `git clone <repo>`
     Copies a remote repository to your local machine.
