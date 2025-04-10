@@ -23,3 +23,6 @@
 
 8.  `git add <file>`
     Stages changs in a file for the next commit.
+
+9.  `git commit -m "message"`
+    Saves the staged changes with a commit message.
