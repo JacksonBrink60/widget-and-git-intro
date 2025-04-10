@@ -33,3 +33,6 @@
 
 11. `git pull`
     Fetches and merges changes from the remote repository to your local one.
+
+12.  `git fetch`
+     Downloads changes from the remte but doesn't merge them automatically.
