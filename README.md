@@ -36,3 +36,6 @@
 
 12.  `git fetch`
      Downloads changes from the remte but doesn't merge them automatically.
+
+13.  `get merge`
+     Merges changes from one branch to another
